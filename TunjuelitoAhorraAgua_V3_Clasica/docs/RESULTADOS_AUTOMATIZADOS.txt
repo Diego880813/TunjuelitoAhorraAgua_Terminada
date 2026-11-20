@@ -1,0 +1,40 @@
+OK Escenario familia
+OK Escenario mayor
+OK Escenario mascota
+OK Referencias iniciales y catálogo inmutable
+OK Promedio ponderado, periodos de diferente duración
+OK Conversión m³, per cápita y meta
+OK Sin recibos y sin división por cero
+OK Rechaza vacíos, negativos, infinito y fracciones de personas
+OK Cero consumo y cero reserva son válidos
+OK 48 horas duplican necesidades sin cargas
+OK 12 y 1 horas, escalado fraccional
+OK Ropa cero, dos cargas y duración independiente
+OK Limpieza por hogar y solo si seleccionada
+OK Sanitario por equipo, frecuencia y personas
+OK Tasas y escala por personas
+OK Varias mascotas, parámetros individuales y 48 horas
+OK Mascotas desactivadas no suman
+OK Meta no altera plan ni usos esenciales
+OK Hábitos y rango parcial independientes del corte
+OK Datos persistidos inválidos y esenciales ausentes
+OK Referencia OAB para 4 personas, diferencia y porcentaje
+OK Comparación menor, igual y umbral de similitud
+OK Estadísticas demo: 375; 93,75; variación −12,5%
+OK Cero y un recibo no inventan tendencias
+OK Variación frente a cero y desde cero
+OK Fechas inclusivas, año bisiesto y rango
+OK Fechas definen días; par incompleto rechazado
+OK Duplicados y superposiciones; edición del mismo ID válida
+OK Duplicado sin periodo pero con emisión identificable
+OK Vencimiento anterior a emisión rechazado
+OK Orden cronológico separado de registros sin fecha
+OK Suma bimestral de calendario y ajuste de último día
+OK Llegada estimada: 7 días, hoy, pasada y 8 días
+OK Recordatorios: plazo 5 días, pagado, vencido y faltantes
+OK Emisión más reciente independientemente del orden
+OK Migración V2 mantiene perfil, recibos antiguos, horas y reserva
+OK Ciclo JSON local sin pérdida y versión desconocida rechazada
+OK Fechas incoherentes y mascotas inválidas rechazadas
+
+38 pruebas completadas.

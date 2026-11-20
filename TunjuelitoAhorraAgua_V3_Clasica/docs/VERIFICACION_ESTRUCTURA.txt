@@ -1,0 +1,7 @@
+Sintaxis JavaScript: OK
+Rutas HTML locales relativas y existentes: OK
+Todos los enlaces originales conservados: OK
+Sin campos de emisión/vencimiento en el formulario: OK
+Sin invocación de alertas calculadas: OK
+Acceso visual sin lectura, almacenamiento ni envío de campos: OK
+40 combinaciones equivalentes entre A y B. Calculadora y familias idénticas a V3. Archivos compartidos idénticos.

@@ -1,0 +1,16 @@
+/* Bienvenida independiente: puede eliminarse junto con acceso-demo.js. */
+[hidden]{display:none!important}
+.demo-access{max-width:580px;min-height:100vh;margin:auto;background:var(--paper)}
+.demo-access-inner{padding:28px 22px 35px}
+.demo-access .brand{justify-content:center;margin-bottom:24px;font-size:16px}
+.demo-access .brand strong{font-size:22px}
+.demo-access .local-pill{display:table;margin:0 auto 20px}
+.demo-access h1{text-align:center;font-size:36px;line-height:1.15;outline:none}
+.demo-access em{font-style:normal;color:var(--teal)}
+.demo-access h1+p{text-align:center;margin:14px auto 0;max-width:360px}
+.demo-art{display:block;width:100%;height:auto;max-height:175px;object-fit:contain;margin:12px auto}
+.demo-info{border:1px solid #c8dfd1;background:#eaf4ed;border-radius:14px;padding:16px;font-size:15px;line-height:1.6}
+.demo-info p{margin-top:5px}
+.demo-access .field{margin:18px 0;font-size:16px}
+.demo-access .save-note{margin-top:4px}
+@media(min-width:600px){.demo-access-inner{padding:35px 38px}.demo-access{box-shadow:0 0 70px #245c3b08}.demo-access h1{font-size:42px}}
